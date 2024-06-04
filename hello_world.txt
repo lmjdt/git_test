@@ -1,3 +1,9 @@
 Hello World!
 Really hoping I can be disciplined to learn much on TOP.
 Insert more text.
+I spent much time trying Linux than actually studying TOP.
+First attempt was on a Virtual Machine, which hogs all of my resources.
+Second was dual-booting different Linux distros on secondary SSD. mainly Linux Mint, Ubuntu, Fedora and Pop!OS
+Third was just coming back to Windows again and just use WSL2.
+I hope I can really progress now this time LOL
+This file name should be hello_diary instead of hello_world
