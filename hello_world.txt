@@ -7,3 +7,4 @@ Second was dual-booting different Linux distros on secondary SSD. mainly Linux M
 Third was just coming back to Windows again and just use WSL2.
 I hope I can really progress now this time LOL
 This file name should be hello_diary instead of hello_world
+Back at here again because I reinstalled Windows because I was running out of storage in Dual booting both Windows OSes :sob:
